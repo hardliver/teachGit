@@ -1,3 +1,7 @@
+'''
+    死ね死ね団
+'''
+
 print("Hello")
 print("Hello 2")
 print("Hello 3")
